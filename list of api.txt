@@ -1,0 +1,4 @@
+/rune :- This implementation does not include pagination because it is designed to retrieve a single rune's information, but it enhances the search capabilities and maintains all other requested features.
+
+points related api issues data not comming
+limit exceeding
